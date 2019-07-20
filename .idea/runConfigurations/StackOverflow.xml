@@ -1,0 +1,16 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="StackOverflow" type="Application" factoryName="Application" singleton="false">
+    <output_file path="$PROJECT_DIR$/run.log" is_save="true" />
+    <option name="MAIN_CLASS_NAME" value="stackoverflow.StackOverflow" />
+    <module name="bigdata-stackoverflow" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="stackoverflow.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
